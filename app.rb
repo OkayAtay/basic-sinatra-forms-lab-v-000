@@ -9,5 +9,4 @@ class App < Sinatra::Base
   post '/newteam' do
 
   end
-en
-s
+end
